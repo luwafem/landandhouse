@@ -75,6 +75,7 @@ const Properties = () => {
               </button>
             </div>
           </div>
+          
 
           {/* Price Range Filter */}
           <div className="mt-6">
