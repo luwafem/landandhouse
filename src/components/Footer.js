@@ -12,7 +12,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-6">
               
-              <span className="text-xl font-semibold">LumenaRealEstate</span>
+              <span className="text-xl font-semibold">EBACH PROPERTIES</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Crafting exceptional living spaces through thoughtful design and expert management.
@@ -87,7 +87,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={16} className="text-gray-400 flex-shrink-0" />
-                <span className="text-gray-400 text-sm">irenichavenrealty@gmail.com</span>
+                <span className="text-gray-400 text-sm">EBACH PROPERTIES@gmail.com</span>
               </li>
             </ul>
           </div>
@@ -97,7 +97,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} IRENIC HAVEN REALTY. All rights reserved.
+              © {new Date().getFullYear()} EBACH PROPERTIES. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">

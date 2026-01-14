@@ -21,7 +21,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             
-            <span className="text-xl font-semibold tracking-tight text-primary">IRENIC HAVEN REALTY</span>
+            <span className="text-xl font-semibold tracking-tight text-primary">EBACH PROPERTIES</span>
           </Link>
 
           {/* Desktop Navigation */}
